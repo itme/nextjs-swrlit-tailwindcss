@@ -1,28 +1,28 @@
-# Tailwind CSS example
+# swrlit with Next.js and Tailwind CSS example
 
-This is an example of using [Tailwind CSS](https://tailwindcss.com) in a Next.js project.
+This is an example of using [swrlit](https://swrlit.me) and [Tailwind CSS](https://tailwindcss.com) in a [Next.js](https://nextjs.org/) project.
 
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/itme/nextjs-swrlit-tailwindcss)
 
 ## How to use
 
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
 
 ```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
+npx create-next-app --example https://github.com/itme/nextjs-swrlit-tailwindcss nextjs-swrlit-tailwindcss-app
 # or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+yarn create next-app --example https://github.com/itme/nextjs-swrlit-tailwindcss nextjs-swrlit-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
 ## Notes
 
-This example is a basic starting point for using [Tailwind CSS](https://tailwindcss.com) with Next.js. It includes the following [PostCSS](https://github.com/postcss/postcss) plugins:
+This example is a basic starting point for using [swrlit](https://swrlit.me) with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com). It includes the following [PostCSS](https://github.com/postcss/postcss) plugins:
 
 - [postcss-preset-env](https://preset-env.cssdb.org/) - Adds stage 2+ features and autoprefixes
 
